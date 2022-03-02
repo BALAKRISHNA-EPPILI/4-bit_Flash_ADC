@@ -42,7 +42,7 @@ The velocity and resolution of an ADC are laid low with the enter offset voltage
 different stages. The first level comprises a differential amplifier and the second level includes an output advantage level as proven in Fig. 1 As this circuit incorporates a
 minimal quantity of transistors, its circuit area is small.
 
-## Priority encoder:
+## Priority Encoder:
 1). An encoder is used to reduce the quantity of a number of wires wished in a circuit. 
 
 2). It gives a coded output with the aid of using assigning a priority to the number of bits of input. 
@@ -51,8 +51,8 @@ minimal quantity of transistors, its circuit area is small.
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156239808-f3ac8304-9bab-47c9-b006-ba6aec04f277.jpg"></br>
-   fig.1: 3-bit_Flash_ADC REFERENCE CIRCUIT 
+  <img src="https://user-images.githubusercontent.com/88899069/156436407-5252a2fa-3ddc-4fa9-a143-1fa73def4a82.png"></br>
+   fig.1: Priority Encoder 
 </p>
 
 

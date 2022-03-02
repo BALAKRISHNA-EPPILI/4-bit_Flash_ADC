@@ -6,8 +6,8 @@ This repository presents the design of 4-bit_Flash_ADC implemented using eSim op
 # Abstract:
 Analog to digital converter (ADC) is an integral  part of communication and an important asset for virtual sign  processing. Analog to digital converter (ADC), find a wide
 variety of applications in today’s digitalized world. Flash  ADCs are quickest amongst all of the forms of ADCs located  so far. A 4bit Analog-to- Digital Converter (ADC) is
-designed  for low strength and low power consumption. It calls for 2N1 comparators, an encoder to transform thermometer code to  binary code. In this paper, we are going to
-design a 4bit flash Analog-toDigital Converter (ADC) to gain excessive-velocity the use of  180nm CMOS technology. The results received also are  provided here. The physical
+designed  for low strength and low power consumption. It calls for 2N-1 comparators, an encoder to transform thermometer code to  binary code. In this paper, we are going to
+design a 4bit flash Analog-to-Digital Converter (ADC) to gain excessive-velocity the use of  180nm CMOS technology. The results received also are  provided here. The physical
 circuit is extra compact than the  preceding design. The analog output of each comparator  depends upon the input, the reference voltage supplied to the  priority encoder, and
 finally, the virtual output obtained.  Power, processing time, and region are all minimized. This design may be used for modem excessive-velocity ADC applications. In this, all
 processes have been carried out of a  CMOS based 4bit flash Analog-to- Digital Converter (ADC)  using Open-Source Software eSim.etc.

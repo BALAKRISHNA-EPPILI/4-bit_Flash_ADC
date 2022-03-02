@@ -10,7 +10,7 @@ designed  for low strength and low power consumption. It calls for 2^N-1 compara
 design a 4bit flash Analog-to-Digital Converter (ADC) to gain excessive-velocity the use of  180nm CMOS technology. The results received also are  provided here. The physical
 circuit is extra compact than the  preceding design. The analog output of each comparator  depends upon the input, the reference voltage supplied to the  priority encoder, and
 finally, the virtual output obtained.  Power, processing time, and region are all minimized. This design may be used for modem excessive-velocity ADC applications. In this, all
-processes have been carried out of a  CMOS based 4bit flash Analog-to- Digital Converter (ADC)  using Open-Source Software eSim.etc.
+processes have been carried out of a  CMOS based 4bit flash Analog-to-Digital Converter (ADC)  using Open-Source Software eSim.etc.
 
 # Introduction:
 Analog to Digital Converters (ADCs) are the maximum essential  devices, which connect Analog block with digital block and use  everywhere all over the world.. ADC is a tool that

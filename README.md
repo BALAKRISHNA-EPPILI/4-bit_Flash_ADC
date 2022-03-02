@@ -74,32 +74,7 @@ minimal quantity of transistors, its circuit area is small.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156446256-096ce287-c4ee-4736-9edf-29e45e9cb158.png"></br>
-   fig.4: REFERENCE WAVEFORM 
-</p>
-
-Here, the comparators used is analog in nature which is made up of opamp and is used to either compare two analog voltages or input voltage with reference voltage (say Vref).
-The analog input which is need to be converted is connected to the non-inverting terminal (positive end) of the comparator and voltage reference is connected to the inverting
-terminal(negative end) of the comparator.
-
-If                                          
-
-                                           V+>V-, Vout=1
-                                                                              
-                                               and
-If                                          
-
-                                           V+<V-, Vout=0
-
-
-Now, all the outputs of the comparator becomes inputs of the encoder it means that the input of the priority encoder depends on the output of comparator and the Encoder gives
-the digital output of input when two or more than two inputs are high at the same time, it produces the binary code of the input which has Highest Priority. For example suppose
-3 input lines of the encoder are high at the same time , then priority will be given to the third input and hence the corresponding binary code output will be generated. So,
-this is how a 3 bit Flash ADC works
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156240611-b70a3973-1b8c-40ff-a960-e4428380ad88.jpg"></br>
-   fig.2: 3-bit_Flash_ADC REFERENCE WAVEFORM 
+   fig.4: REFERENCE WAVEFORM 4-bit_Flash_ADC
 </p>
 
 
@@ -116,12 +91,8 @@ eSim has been designed by keeping these objectives in mind.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90523478/156241968-207d738d-9245-4e82-b101-2c957cfb3b17.png"></br>
-  Fig.3: eSim open source EDA tool
+  Fig.5: eSim open source EDA tool
 </p>
-
-<b>• KiCad to Ngspice converter:</b></br>
-&emsp;Analysis parameters, and the source details are provided through this module. It also allows us to add and edit the device models and subcircuits, included in the circuit
-schematic. Finally, this module facilitates the conversion of KiCad netlist to Ngspice compatible ones.
 
 <b>• Ngspice:</b></br>
 &emsp;Ngspice is a general purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analysis. Circuits may contain resistors, capacitors,
@@ -136,7 +107,7 @@ capabilities are often available for open-source development here first--*before
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90523478/156244458-943e8799-d7b3-4cdf-8906-2ff8dda606f7.png"></br>
-  Fig.4: Makerchip
+  Fig.6: Makerchip
 </p>
 
 <b>• Verilog:</b></br>

@@ -34,6 +34,12 @@ comparator to evaluate enter voltage with regard to voltages. The reference volt
 correlation made among VIN and the comparator generates Vref, zero and 1 output. If VIN is much less than Vref, the output is 0 in any other case. The output of the comparator
 is fed to the concern encoder to acquire the digitalized output.
 
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/156445831-394b7a12-3a98-4a00-822e-c5292e27befb.png"></br>
+   fig.1: REFERENCE CIRCUIT 4-bit_Flash_ADC 
+</p>
+
 ## Comparator:
 Comparator performs an important component withinside the design of Analog-to-Digital converters (ADC). The execution of the goal application is essentially impacted by the
 design of the comparator. 
@@ -45,7 +51,7 @@ minimal quantity of transistors, its circuit area is small.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156444658-41a4fd63-ae3f-439f-8844-c82c1b527835.png"></br>
-   fig.1: Comparator 
+   fig.2: Comparator 
 </p>
 
 
@@ -60,10 +66,16 @@ minimal quantity of transistors, its circuit area is small.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156436407-5252a2fa-3ddc-4fa9-a143-1fa73def4a82.png"></br>
-   fig.2: Priority Encoder 
+   fig.3: Priority Encoder 
 </p>
 
 
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/156446256-096ce287-c4ee-4736-9edf-29e45e9cb158.png"></br>
+   fig.4: REFERENCE WAVEFORM 
+</p>
 
 Here, the comparators used is analog in nature which is made up of opamp and is used to either compare two analog voltages or input voltage with reference voltage (say Vref).
 The analog input which is need to be converted is connected to the non-inverting terminal (positive end) of the comparator and voltage reference is connected to the inverting

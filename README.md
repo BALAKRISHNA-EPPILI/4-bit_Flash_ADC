@@ -37,13 +37,16 @@ is fed to the concern encoder to acquire the digitalized output.
 ## Comparator:
 Comparator performs an important component withinside the design of Analog-to-Digital converters (ADC). The execution of the goal application is essentially impacted by the
 design of the comparator. 
+
 The velocity and resolution of an ADC are laid low with the enter offset voltage, delay and input signal variety of comparator. The two-level pen-loop comparator includes
 different stages. The first level comprises a differential amplifier and the second level includes an output advantage level as proven in Fig. 1 As this circuit incorporates a
 minimal quantity of transistors, its circuit area is small.
 
 ## Priority encoder:
 1). An encoder is used to reduce the quantity of a number of wires wished in a circuit. 
+
 2). It gives a coded output with the aid of using assigning a priority to the number of bits of input. 
+
 3). A priority encoder could have a couple of inputs activated at an equal time.
 
 </p>

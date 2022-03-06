@@ -1,0 +1,28 @@
+* c:\balakrishna\fossee\esim\comp\comp.cir
+
+.include lm_741.sub
+x1 net-r2-pad1 vref vin net-x1-pad4 net-r2-pad2 net-r1-pad1 net-x1-pad7 ? lm_741
+v2  net-x1-pad7 gnd 15
+v1  vin gnd sine(0 14 200 0 0)
+* u2  vout plot_v1
+* u1  vin plot_v1
+v4  gnd net-x1-pad4 15
+v3  vref gnd 12
+* u3  net-r1-pad1 vout adc_bridge_1
+r1  net-r1-pad1 gnd 1k
+* u4  vref plot_v1
+r2  net-r2-pad1 net-r2-pad2 1k
+a1 [net-r1-pad1 ] [vout ] u3
+* Schematic Name:                             adc_bridge_1, NgSpice Name: adc_bridge
+.model u3 adc_bridge(in_low=1.0 in_high=2.0 rise_delay=1.0e-9 fall_delay=1.0e-9 ) 
+.tran 2e-03 40e-03 0e-03
+
+* Control Statements 
+.control
+run
+print allv > plot_data_v.txt
+print alli > plot_data_i.txt
+plot v(vout)
+plot v(vin) v(vref)
+.endc
+.end

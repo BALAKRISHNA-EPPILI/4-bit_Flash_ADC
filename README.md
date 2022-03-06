@@ -285,13 +285,13 @@ endmodule
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156941802-06fe270d-2014-45a2-a2ff-b7e37d484d34.jpg"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/156944039-3913eec3-1e61-4cf3-8dbb-a598932e16b2.jpg"></br>
   Fig.6: 3_bit_flash_adc_waveform(1)
 </p>
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156941822-f006ae9b-c090-4442-930d-5f940b8a78b0.jpg"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/156944054-29e4f35b-8ca6-41ff-a3c9-969c78eb9125.jpg"></br>
   Fig.6: 3_bit_flash_adc_waveform(2)
 </p>
 

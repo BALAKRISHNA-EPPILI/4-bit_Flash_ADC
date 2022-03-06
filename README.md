@@ -197,7 +197,7 @@ endmodule
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943380-d3bab608-4d75-40a2-bbd5-ffa883557bad.PNG"></br>
-  Fig.6: 8x3 Priority encoder circuit
+  Fig.6: 16x4 Priority encoder circuit
 </p>
 
 ### Comparator Schematic:
@@ -251,13 +251,13 @@ endmodule
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943589-f378e6ee-d1b7-4d59-8887-7c7c00d5ba11.PNG"></br>
-  Fig.6:  8x3 Priority encoder Waveform(1)
+  Fig.6:  16x4 Priority encoder Waveform(1)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943601-1077404c-6754-4c68-a072-974a8784c8fc.png"></br>
-  Fig.6: 8x3 Priority encoder Waveform(2)
+  Fig.6: 16x4 Priority encoder Waveform(2)
 </p>
 
 

@@ -297,7 +297,7 @@ endmodule
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943756-c0350bcd-eb56-4c05-8795-eccd820cf6cc.jpg"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/156944323-c3325c60-83e3-4d5e-8b34-5fdd7ae8173e.jpg"></br>
   Fig.6: 3_bit_flash_adc_waveform(3)
 </p>
 

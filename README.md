@@ -301,9 +301,9 @@ endmodule
   Fig.6: 3_bit_flash_adc_waveform(3)
 </p>
 
-# Netlist of the Circuit:
+# Netlist:
 
-Refer to the netlist of the circuit here: <a href='Netlist_3-bit_Flash_ADC'>Netlist</a>
+Refer to the netlist of the circuit here: <a href='Netlist_4-bit_Flash_ADC'>Netlist_4-bit_Flash_ADC</a>
 
 # References:
 [1]. https://www.ripublication.com/ijems_spl/ijemsv8n1_05.pdf 

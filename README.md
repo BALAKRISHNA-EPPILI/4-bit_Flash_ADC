@@ -155,48 +155,37 @@ default : out=4'bxxxx;
 endmodule
 
 ```
-
+verilog code of 16x4 priority encoder in makerchip IDE
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917375-83f425a3-2809-42f8-a685-073cdd42e31e.png"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/157102001-a0133fce-a03b-4456-bb26-68a64f2806af.png"></br>
   Fig.6: 1
 </p>
 
+Simulation of 16x4 priority encoder in makerchip IDE
+
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917433-9a8fdd4c-b0ae-4243-bf12-274261e65602.png"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/157102210-5034e1d4-108e-4b96-a02f-cc529e3b87f3.png"></br>
   Fig.6: 2
 </p>
 
+Simulation of verilog code when any random value is taken
+
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917453-e5e917a5-c0ac-4882-b2a0-90c2393965e8.png"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/157102355-e8701947-4d4c-41a3-9fea-43ed789729ac.png"></br>
   Fig.6: 3
 </p>
 
+Simulation of verilog code when user has given the value
+
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917473-351bda5c-756f-4f27-9ae7-7035925245f6.png"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/157102588-f5c0deaa-1e4e-448d-b605-13ba12760ced.png"></br>
   Fig.6: 4
 </p>
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917515-69137660-99e0-4f69-8321-3db7c4171b25.png"></br>
-  Fig.6: 5
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917565-17e49081-a948-46a2-9d89-90c9d2d795b6.png"></br>
-  Fig.6: 6
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/90523478/156917575-4e6c9761-b232-4582-965b-6b00b31b22cf.png"></br>
-  Fig.6: 7
-</p>
 
 ### Comparator Schematic:
 Comparator is a significant circuit in analog and mixed signal design. As we know that operational amplifier can be used as a multipurpose device so here we have used Opamp that
@@ -211,7 +200,9 @@ reference voltage (Vref) is given on the other terminal or inverting terminal of
 </p>
 
 ### Priority encoder Schematic:
-
+This is the schematic circuit of 16x4 Priority Encoder which consist of a priority encoder i.e.,(balakrishna_priority_encoder) , with 2 adc bridge is used , one dac bridge is
+used and 4 resistors with respect to the input applied as pulse signal at the output and forplotting the waveform plot is used also labels are used for labelling the inputs and
+outputs of priority encoder.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943380-d3bab608-4d75-40a2-bbd5-ffa883557bad.PNG"></br>

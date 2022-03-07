@@ -2,6 +2,34 @@
 
 This repository presents the design of 4-bit_Flash_ADC implemented using eSim open source EDA tool.
 
+# Table of Contents
+
+- [Abstract](#Abstract)
+- [Introduction](#Introduction)
+- [4-bit_Flash_ADC](#4-bit-Flash-ADC)
+	- [Comparator](#Comparator)
+	- [Priority Encoder](#Priority-Encoder)
+	- [REFERENCE WAVEFORM](#REFERENCE-WAVEFORM)
+- [Tools Used](#Tools-Used)
+	- [eSim](#eSim)
+	- [Makerchip](#Makerchip)
+- [Pre-Layout Schematics and Simulations](#Pre-Layout-Schematics-and-Simulations)
+	- [Schematics](#Schematics)
+	- [Verilog](#Verilog)
+	- [Comparator Schematic](#Comparator-Schematic)
+	- [Priority Encoder Schematicl](#Priority-Encoder-Schematic)
+	- [4-bit_Flash_ADC Schematic](#3-bit-Flash-ADC-Schematic)
+		- [Analog Block](#Analog-Block)
+		- [Digital Block](#Digital-Block)
+		- [Mixed Signal](#Mixed-Signal)
+- [Simulations](#Simulations)
+	- [Comparator Waveform](#Comparator-Waveform)
+	- [Priority encoder Waveform](#Priority-encoder-Waveform)
+	- [4-bit_Flash_ADC Waveform](#3-bit-Flash-ADCWaveform)
+- [Netlist](#Netlist)
+- [References](#references)
+- [Acknowledgement](#acknowledgement)
+- [Author](#author)
 
 # Abstract:
 Analog to digital converter (ADC) is an integral  part of communication and an important asset for virtual sign  processing. Analog to digital converter (ADC), find a wide
@@ -196,7 +224,7 @@ reference voltage (Vref) is given on the other terminal or inverting terminal of
   Fig.6: Comparator Circuit using OPAMP
 </p>
 
-### Priority encoder Schematic:
+### Priority Encoder Schematic:
 This is the schematic circuit of 16x4 Priority Encoder which consist of a priority encoder i.e.,(balakrishna_priority_encoder) , with 2 adc bridge is used , one dac bridge is
 used and 4 resistors with respect to the input applied as pulse signal at the output and forplotting the waveform plot is used also labels are used for labelling the inputs and
 outputs of priority encoder.
@@ -310,7 +338,7 @@ of analog as well as digital circuits.
   Fig.6: comparator waveform(3)
 </p>
 
-### 3-bit_Flash_ADC Waveform:
+### 4-bit_Flash_ADC Waveform:
 
 </p>
 <p align="center">

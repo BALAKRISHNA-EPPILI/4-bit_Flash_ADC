@@ -219,9 +219,9 @@ Flash analog–to–digital Converter schematic diagram. Flash ADC is N-bit Flas
 utilizes (2x2x2x2)-1= 16-1=15 comparators that is from 0 to 15  and (2x2x2x2) =16 resistors. The input voltage for each of the comparators is larger than the reference voltage
 for the comparators which is applied on the other terminal. Each comparator produces a "1", which means that when its analog input voltage (Vin) is greater than the reference
 voltage (Vref) which is applied to it or else, the comparator output is "0". The Flash ADC consists of three primary components: a ladder of resistor network which is connected
-in series with each other, comparators, and encoders. The analog input voltage is at the identical terminal as compared to the reference voltage degrees generated from resistors
-string and the speed of A/D conversion is consequently maximized. The outputs of comparators look like a binary code(BC) that's a combination of a sequence of zeros and a
-sequence of ones, e.g., 0000…0011…1111. Since binary code is generally desired for digital signal processing, a thermometer code is then altered to a binary code encoder.
+in series with each other, comparators, and Priority encoder. The analog input voltage is at the identical terminal as compared to the reference voltage degrees generated from
+resistors string and the speed of A/D conversion is consequently maximized. The outputs of comparators look like a binary code(BC) that's a combination of a sequence of zeros
+and a sequence of ones, e.g., 0000…0011…1111. Since binary code is generally desired for digital signal processing, a thermometer code is then altered to a binary code encoder.
 Optimizations on area rate, circuit latencies and electricity intake are very much projected. In this, we've low electricity Comparator used withinside the implementation all
 through a Comparator Circuit & implementation Specification.
 

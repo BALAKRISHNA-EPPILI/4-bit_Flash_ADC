@@ -122,8 +122,6 @@ for verification through simulation, for timing analysis, for test analysis (tes
 
 # Pre-Layout Schematics and Simulations:
 
-# Pre-Layout Schematics and Simulations:
-
 ## Schematics:
 
 ### Verilog

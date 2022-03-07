@@ -301,6 +301,11 @@ endmodule
   Fig.6: 3_bit_flash_adc_waveform(3)
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/157019187-68698ba8-16b1-4ee1-aaf5-e1217be3a986.jpg"></br>
+  Fig.6: 3_bit_flash_adc_waveform(4)
+</p>
+
 # Netlist:
 
 Refer to the netlist of the circuit here: <a href='Netlist_4-bit_Flash_ADC'>Netlist_4-bit_Flash_ADC</a>

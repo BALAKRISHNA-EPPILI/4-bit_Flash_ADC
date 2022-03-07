@@ -75,6 +75,8 @@ minimal quantity of transistors, its circuit area is small.
    fig.3: 16x4 Priority Encoder Truth Table 
 </p>
 
+## REFERENCE WAVEFORM:
+
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156446256-096ce287-c4ee-4736-9edf-29e45e9cb158.png"></br>

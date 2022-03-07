@@ -309,7 +309,7 @@ of analog as well as digital circuits.
 ### Priority encoder Waveform:
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943589-f378e6ee-d1b7-4d59-8887-7c7c00d5ba11.PNG"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/157116945-6494fd99-6b63-4348-b07d-071a8ff58867.PNG"></br>
   Fig.14:  16x4 Priority encoder Waveform(1)
 </p>
 

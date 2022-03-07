@@ -69,7 +69,11 @@ minimal quantity of transistors, its circuit area is small.
    fig.3: Priority Encoder 
 </p>
 
-
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/157101661-42e9936e-cd12-476f-84a5-d47b56a7faf1.png"></br>
+   fig.3: 16x4 Priority Encoder Truth Table 
+</p>
 
 </p>
 <p align="center">

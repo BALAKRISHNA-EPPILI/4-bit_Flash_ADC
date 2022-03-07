@@ -345,24 +345,24 @@ of analog as well as digital circuits.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156944039-3913eec3-1e61-4cf3-8dbb-a598932e16b2.jpg"></br>
-  Fig.19.1: 3_bit_flash_adc_waveform(1)
+  Fig.19.1: 4-bit_flash_adc_waveform(1)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157019600-ab4af632-2a71-4581-9a5a-5474036084d5.jpg"></br>
-  Fig.19.2: 3_bit_flash_adc_waveform(2)
+  Fig.19.2: 4-bit_flash_adc_waveform(2)
 </p>
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156944323-c3325c60-83e3-4d5e-8b34-5fdd7ae8173e.jpg"></br>
-  Fig.19.3: 3_bit_flash_adc_waveform(3)
+  <img src="https://user-images.githubusercontent.com/88899069/157114728-28631495-baed-4ade-b245-23242913876a.jpg"></br>
+  Fig.19.3: 4-bit_flash_adc_waveform(3)
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157019187-68698ba8-16b1-4ee1-aaf5-e1217be3a986.jpg"></br>
-  Fig.19.4: 3_bit_flash_adc_waveform(4)
+  Fig.19.4: 4-bit_flash_adc_waveform(4)
 </p>
 
 # Netlist: 

@@ -192,6 +192,14 @@ endmodule
   Fig.6: 7
 </p>
 
+### Comparator Schematic:
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/156943392-dd9a8a4d-54aa-4818-9587-f4779452a0f6.jpg"></br>
+  Fig.6: Comparator Circuit using OPAMP
+</p>
+
 ### Priority encoder Schematic:
 
 </p>
@@ -200,13 +208,6 @@ endmodule
   Fig.6: 16x4 Priority encoder circuit
 </p>
 
-### Comparator Schematic:
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943392-dd9a8a4d-54aa-4818-9587-f4779452a0f6.jpg"></br>
-  Fig.6: Comparator Circuit using OPAMP
-</p>
 
 ### 3-bit_Flash_ADC Schematic:
 

@@ -128,10 +128,10 @@ eSim has been designed by keeping these objectives in mind.
   Fig.6: eSim open source EDA tool
 </p>
 
-<b>• Ngspice:</b></br>
-&emsp;Ngspice is a general purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analysis. Circuits may contain resistors, capacitors,
-inductors, mutual inductors, independent voltage and current sources, four types of dependent sources, lossless and lossy transmission lines (two separate implementations),
-switches, uniform distributed RC lines, and the five most common semiconductor devices: diodes, BJTs, JFETs, MESFETs, and MOSFET.
+[Ngspice](http://ngspice.sourceforge.net/docs.html) is a general purpose circuit simulation program for nonlinear dc, nonlinear transient, and linear ac analysis. Circuits may
+contain resistors, capacitors, inductors, mutual inductors, independent voltage and current sources, four types of dependent sources, lossless and lossy transmission lines (two
+separate implementations), switches, uniform distributed RC lines, and the five most common semiconductor devices: diodes, BJTs, JFETs, MESFETs, and MOSFET.
+
 
 ## Makerchip:
 [Makerchip](https://www.makerchip.com/) Circuit design has been a game for big industry for far too long! Makerchip provides free and instant access to the latest tools from
@@ -147,6 +147,8 @@ capabilities are often available for open-source development here first--*before
 <b>• Verilog:</b></br>
 &emsp;Verilog is a Hardware Description Language; a textual format for describing electronic circuits and systems. Applied to electronic design, Verilog is intended to be used
 for verification through simulation, for timing analysis, for test analysis (testability analysis and fault grading) and for logic synthesis
+
+[Verilator](https://www.veripool.org/verilator/): It is a tool which converts Verilog code to C++ objects.
 
 # Pre-Layout Schematics and Simulations:
 

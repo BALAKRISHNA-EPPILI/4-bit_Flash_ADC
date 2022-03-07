@@ -195,7 +195,7 @@ endmodule
 ### Comparator Schematic:
 Comparator is a significant circuit in analog and mixed signal design. As we know that operational amplifier can be used as a multipurpose device so here we have used Opamp that
 is lm_741 as a comparator that is OPAMP as a COMPARATOR. The planned schematic of comparator circuit.
-Here, we used the non-inverting comparator so, the input signal this is sine signal is applied on the high-quality terminal or non-inverting terminal of the opamp while the
+Here, we used the non-inverting comparator so, the input signal is sine signal is applied on the high-quality terminal or non-inverting terminal of the opamp while the
 reference voltage (Vref) is implemented on the bad terminal or inverting terminal of the opamp. 
 
 </p>

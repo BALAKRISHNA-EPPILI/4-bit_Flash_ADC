@@ -193,10 +193,8 @@ endmodule
 </p>
 
 ### Comparator Schematic:
-Comparator is a significant circuit in analog and mixed signal design. The degree operational amp (lm_741) is used as a comparator. The planned schematic of comparator circuit.
-The primary degree of the designed comparator consists of  parts, one is biasing circuit to bias the gift mirror and another part is differential amp. The second degree is gain
-stage to get higher the gain of operational amp. we used the non-inverting comparator so, the input signal this is sine signal is applied on the high-quality terminal or
-non-inverting terminal of the opamp whilst the reference voltage (Vref) is implemented on the bad terminal or inverting terminal of the opamp. 
+Comparator is a significant circuit in analog and mixed signal design. The device operational amp (lm_741) is used as a comparator. The planned schematic of comparator circuit.
+we used the non-inverting comparator so, the input signal this is sine signal is applied on the high-quality terminal or non-inverting terminal of the opamp while the reference voltage (Vref) is implemented on the bad terminal or inverting terminal of the opamp. 
 
 </p>
 <p align="center">

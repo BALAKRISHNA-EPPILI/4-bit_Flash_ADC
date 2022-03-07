@@ -100,7 +100,7 @@ minimal quantity of transistors, its circuit area is small.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157101661-42e9936e-cd12-476f-84a5-d47b56a7faf1.png"></br>
-   fig.3: 16x4 Priority Encoder Truth Table 
+   fig.4: 16x4 Priority Encoder Truth Table 
 </p>
 
 ## REFERENCE WAVEFORM:
@@ -108,7 +108,7 @@ minimal quantity of transistors, its circuit area is small.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156446256-096ce287-c4ee-4736-9edf-29e45e9cb158.png"></br>
-   fig.4: REFERENCE WAVEFORM 4-bit_Flash_ADC
+   fig.5: REFERENCE WAVEFORM 4-bit_Flash_ADC
 </p>
 
 
@@ -125,7 +125,7 @@ eSim has been designed by keeping these objectives in mind.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90523478/156241968-207d738d-9245-4e82-b101-2c957cfb3b17.png"></br>
-  Fig.5: eSim open source EDA tool
+  Fig.6: eSim open source EDA tool
 </p>
 
 <b>• Ngspice:</b></br>
@@ -141,7 +141,7 @@ capabilities are often available for open-source development here first--*before
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90523478/156244458-943e8799-d7b3-4cdf-8906-2ff8dda606f7.png"></br>
-  Fig.6: Makerchip
+  Fig.7: Makerchip
 </p>
 
 <b>• Verilog:</b></br>
@@ -184,7 +184,7 @@ verilog code of 16x4 priority encoder in makerchip IDE
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157102001-a0133fce-a03b-4456-bb26-68a64f2806af.png"></br>
-  Fig.6: 1
+  Fig.8.1: 
 </p>
 
 Simulation of 16x4 priority encoder in makerchip IDE
@@ -192,7 +192,7 @@ Simulation of 16x4 priority encoder in makerchip IDE
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157102210-5034e1d4-108e-4b96-a02f-cc529e3b87f3.png"></br>
-  Fig.6: 2
+  Fig.8.2: 
 </p>
 
 Simulation of verilog code when any random value is taken
@@ -200,7 +200,7 @@ Simulation of verilog code when any random value is taken
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157102355-e8701947-4d4c-41a3-9fea-43ed789729ac.png"></br>
-  Fig.6: 3
+  Fig.8.3:
 </p>
 
 Simulation of verilog code when user has given the value
@@ -208,7 +208,7 @@ Simulation of verilog code when user has given the value
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157102588-f5c0deaa-1e4e-448d-b605-13ba12760ced.png"></br>
-  Fig.6: 4
+  Fig.8.4:
 </p>
 
 
@@ -221,7 +221,7 @@ reference voltage (Vref) is given on the other terminal or inverting terminal of
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943392-dd9a8a4d-54aa-4818-9587-f4779452a0f6.jpg"></br>
-  Fig.6: Comparator Circuit using OPAMP
+  Fig.9: Comparator Circuit using OPAMP
 </p>
 
 ### Priority Encoder Schematic:
@@ -231,7 +231,7 @@ outputs of priority encoder.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943380-d3bab608-4d75-40a2-bbd5-ffa883557bad.PNG"></br>
-  Fig.6: 16x4 Priority encoder circuit
+  Fig.10: 16x4 Priority encoder circuit
 </p>
 
 
@@ -252,7 +252,7 @@ through a Comparator Circuit & implementation Specification.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943557-9ce741a0-ddf4-43b3-b562-e1298bd30fd7.PNG"></br>
-  Fig.6: Analog Block circuit
+  Fig.11: Analog Block circuit
 </p>
 
 #### Digital Block:
@@ -260,7 +260,7 @@ through a Comparator Circuit & implementation Specification.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943564-d857630b-afd8-4e13-938d-7cc6899a4a17.PNG"></br>
-  Fig.6: Digital Block circuit
+  Fig.12: Digital Block circuit
 </p>
 
 #### Mixed Signal:
@@ -270,37 +270,37 @@ of analog as well as digital circuits.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943437-1d55523a-49a6-45c4-bf9b-ee6aa1a2a7dc.PNG"></br>
-  Fig.6: Mixed Signal circuit(1)
+  Fig.13.1: Mixed Signal circuit(1)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943448-425bafb9-de25-4c16-a42e-927da618bf89.PNG"></br>
-  Fig.6: Mixed Signal circuit(2)
+  Fig.13.2: Mixed Signal circuit(2)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943468-55028906-b79e-4dad-8acb-3fee688bd624.PNG"></br>
-  Fig.6: Mixed Signal circuit(3)
+  Fig.13.3: Mixed Signal circuit(3)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943406-8d0e3279-6a49-4747-87c2-45b28cba7fad.PNG"></br>
-  Fig.6: Mixed Signal circuit(4)
+  Fig.13.4: Mixed Signal circuit(4)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157104722-64f1b699-6f3e-4c23-9d94-c00cd3d0b0eb.PNG"></br>
-  Fig.6: Mixed Signal circuit(5)
+  Fig.13.5: Mixed Signal circuit(5)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157104317-cc6c9181-3be7-4aee-89b0-957d73cfbd7c.PNG"></br>
-  Fig.6: Mixed Signal circuit(6)
+  Fig.13.6: Mixed Signal circuit(6)
 </p>
 
 ## Simulations:
@@ -308,13 +308,13 @@ of analog as well as digital circuits.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943589-f378e6ee-d1b7-4d59-8887-7c7c00d5ba11.PNG"></br>
-  Fig.6:  16x4 Priority encoder Waveform(1)
+  Fig.14:  16x4 Priority encoder Waveform(1)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943601-1077404c-6754-4c68-a072-974a8784c8fc.png"></br>
-  Fig.6: 16x4 Priority encoder Waveform(2)
+  Fig.15: 16x4 Priority encoder Waveform(2)
 </p>
 
 
@@ -323,19 +323,19 @@ of analog as well as digital circuits.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943639-5cc17704-6424-47b1-bf68-38eda56ba2cb.jpg"></br>
-  Fig.6:  comparator waveform(1) 
+  Fig.16:  comparator waveform(1) 
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943712-a534312a-a790-4a8d-af7d-7d0f21f8d01b.jpg"></br>
-  Fig.6: comparator waveform(2)
+  Fig.17: comparator waveform(2)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943724-e4588d35-64f0-4ad8-b32f-ae1333381840.jpg"></br>
-  Fig.6: comparator waveform(3)
+  Fig.18: comparator waveform(3)
 </p>
 
 ### 4-bit_Flash_ADC Waveform:
@@ -343,24 +343,24 @@ of analog as well as digital circuits.
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156944039-3913eec3-1e61-4cf3-8dbb-a598932e16b2.jpg"></br>
-  Fig.6: 3_bit_flash_adc_waveform(1)
+  Fig.19.1: 3_bit_flash_adc_waveform(1)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157019600-ab4af632-2a71-4581-9a5a-5474036084d5.jpg"></br>
-  Fig.6: 3_bit_flash_adc_waveform(2)
+  Fig.19.2: 3_bit_flash_adc_waveform(2)
 </p>
 
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156944323-c3325c60-83e3-4d5e-8b34-5fdd7ae8173e.jpg"></br>
-  Fig.6: 3_bit_flash_adc_waveform(3)
+  Fig.19.3: 3_bit_flash_adc_waveform(3)
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/157019187-68698ba8-16b1-4ee1-aaf5-e1217be3a986.jpg"></br>
-  Fig.6: 3_bit_flash_adc_waveform(4)
+  Fig.19.4: 3_bit_flash_adc_waveform(4)
 </p>
 
 # Netlist: 

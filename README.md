@@ -241,27 +241,28 @@ electricity Comparator used withinside the implementation all through a Comparat
 </p>
 
 #### Mixed Signal:
+
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943406-8d0e3279-6a49-4747-87c2-45b28cba7fad.PNG"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/156943437-1d55523a-49a6-45c4-bf9b-ee6aa1a2a7dc.PNG"></br>
   Fig.6: Mixed Signal circuit(1)
 </p>
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943437-1d55523a-49a6-45c4-bf9b-ee6aa1a2a7dc.PNG"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/156943448-425bafb9-de25-4c16-a42e-927da618bf89.PNG"></br>
   Fig.6: Mixed Signal circuit(2)
 </p>
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943448-425bafb9-de25-4c16-a42e-927da618bf89.PNG"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/156943468-55028906-b79e-4dad-8acb-3fee688bd624.PNG"></br>
   Fig.6: Mixed Signal circuit(3)
 </p>
 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943468-55028906-b79e-4dad-8acb-3fee688bd624.PNG"></br>
+  <img src="https://user-images.githubusercontent.com/88899069/156943406-8d0e3279-6a49-4747-87c2-45b28cba7fad.PNG"></br>
   Fig.6: Mixed Signal circuit(4)
 </p>
 

@@ -237,6 +237,8 @@ through a Comparator Circuit & implementation Specification.
 </p>
 
 #### Mixed Signal:
+This is the mixed signal schematic of 4 bit FLASH ADC which includes two major blocks i.e., Analog Block and Digital Block . As we know that mixed signal circuit are the mixture
+of analog as well as digital circuits.
 
 </p>
 <p align="center">
@@ -262,6 +264,17 @@ through a Comparator Circuit & implementation Specification.
   Fig.6: Mixed Signal circuit(4)
 </p>
 
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/157104722-64f1b699-6f3e-4c23-9d94-c00cd3d0b0eb.PNG"></br>
+  Fig.6: Mixed Signal circuit(5)
+</p>
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/157104317-cc6c9181-3be7-4aee-89b0-957d73cfbd7c.PNG"></br>
+  Fig.6: Mixed Signal circuit(6)
+</p>
 
 ## Simulations:
 ### Priority encoder Waveform:

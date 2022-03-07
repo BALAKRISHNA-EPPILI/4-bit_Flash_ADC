@@ -335,9 +335,14 @@ of analog as well as digital circuits.
   Fig.6: 3_bit_flash_adc_waveform(4)
 </p>
 
-# Netlist:
+# Netlist: 
+[1]. Refer to the netlist of the circuit here: <a href='Netlist_4-bit_Flash_ADC'>Netlist_4-bit_Flash_ADC</a>
 
-Refer to the netlist of the circuit here: <a href='Netlist_4-bit_Flash_ADC'>Netlist_4-bit_Flash_ADC</a>
+[2]. Refer to the netlist of the circuit here: <a href='Netlist _16x4_Priority_encoder'>Netlist _16x4_Priority_encoder</a>
+
+[3]. Refer to the netlist of the circuit here: <a href='Netlist_4-bit_Flash_ADC'>Netlist_4-bit_Flash_ADC</a>
+
+
 
 # References:
 [1]. https://www.ripublication.com/ijems_spl/ijemsv8n1_05.pdf 

@@ -215,29 +215,16 @@ non-inverting terminal of the opamp whilst the reference voltage (Vref) is imple
 
 ### 3-bit_Flash_ADC Schematic:
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943406-8d0e3279-6a49-4747-87c2-45b28cba7fad.PNG"></br>
-  Fig.6: Mix Signal circuit(1)
-</p>
+Flash analog –to -digital Converter schematic diagram. Flash ADC is N-bit Flash ADC 2N resistors and 2N–1 comparator are required. For 4-bit ADC the circuit utilizes
+(2x2x2x2)-1= 16-1=15 comparators and (2x2x2x2) =16 resistors. The reference voltage for each one comparator is one least significant bit (LSB) larger than the reference voltage
+for the comparators immediately lower it. Each comparator produce a "1" while its analog input voltage (Vin) is greater than the reference voltage (Vref) implemented to it or
+else, the comparator output is "0". The Flash ADC it consists of three primary components: resistors, comparators, and encoders. The analog input voltage is on the identical
+time as compare to the reference voltage degrees generated from resistors string and the speed of A/D conversion is consequently maximize. The outputs of comparators look a
+binary code(BC) that's a combination of a sequence of zeros and a sequence of ones, e.g., 0000…0011…1111. Since binary code is generally desired for digital signal processing, a
+thermometer code is then altered to a binary code encoder. Optimizations on area rate, circuit latencies and electricity intake are very much projected. In this paper we've low
+electricity Comparator used withinside the implementation all through a Comparator Circuit & implementation Specification.
 
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943437-1d55523a-49a6-45c4-bf9b-ee6aa1a2a7dc.PNG"></br>
-  Fig.6: Mix Signal circuit(2)
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943448-425bafb9-de25-4c16-a42e-927da618bf89.PNG"></br>
-  Fig.6: Mix Signal circuit(3)
-</p>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/88899069/156943468-55028906-b79e-4dad-8acb-3fee688bd624.PNG"></br>
-  Fig.6: Mix Signal circuit(4)
-</p>
+#### Analog Block:
 
 </p>
 <p align="center">
@@ -245,11 +232,39 @@ non-inverting terminal of the opamp whilst the reference voltage (Vref) is imple
   Fig.6: Analog Block circuit
 </p>
 
+#### Digital Block:
+
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88899069/156943564-d857630b-afd8-4e13-938d-7cc6899a4a17.PNG"></br>
   Fig.6: Digital Block circuit
 </p>
+
+#### Mixed Signal:
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/156943406-8d0e3279-6a49-4747-87c2-45b28cba7fad.PNG"></br>
+  Fig.6: Mixed Signal circuit(1)
+</p>
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/156943437-1d55523a-49a6-45c4-bf9b-ee6aa1a2a7dc.PNG"></br>
+  Fig.6: Mixed Signal circuit(2)
+</p>
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/156943448-425bafb9-de25-4c16-a42e-927da618bf89.PNG"></br>
+  Fig.6: Mixed Signal circuit(3)
+</p>
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88899069/156943468-55028906-b79e-4dad-8acb-3fee688bd624.PNG"></br>
+  Fig.6: Mixed Signal circuit(4)
+</p>
+
 
 ## Simulations:
 ### Priority encoder Waveform:

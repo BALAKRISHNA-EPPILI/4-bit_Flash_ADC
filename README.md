@@ -1,6 +1,6 @@
 # 4-bit_Flash_ADC
 
-This repository presents the design of 4-bit_Flash_ADC implemented using eSim open source EDA tool in 180nm Technology.
+This repository presents the design of 4-bit_Flash_ADC implemented using eSim open source EDA tool.
 
 
 # Abstract:

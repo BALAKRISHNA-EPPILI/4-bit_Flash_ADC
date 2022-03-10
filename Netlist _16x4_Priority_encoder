@@ -1,4 +1,4 @@
-* c:\balakrishna\fossee\esim\bala_priority_encoder\bala_priority_encoder.cir
+* c:\ebalakrishna\fossee\esim\bala_priority_encoder\bala_priority_encoder.cir
 
 * u13  i0 i1 i2 i3 i4 i5 i6 i7 net-_u13-pad9_ net-_u13-pad10_ net-_u13-pad11_ net-_u13-pad12_ net-_u13-pad13_ net-_u13-pad14_ net-_u13-pad15_ net-_u13-pad16_ adc_bridge_8
 v1  i0 gnd pulse(0 5 0.1m 0.1m 0.1m 1 2)
@@ -63,25 +63,7 @@ a4 [net-_u13-pad9_ net-_u13-pad10_ net-_u13-pad11_ net-_u13-pad12_ net-_u13-pad1
 run
 print allv > plot_data_v.txt
 print alli > plot_data_i.txt
-plot v(i0)
-plot v(i1)
-plot v(i2)
-plot v(i3)
-plot v(i4)
-plot v(i7)
-plot v(i6)
-plot v(i5)
-plot v(o0)
-plot v(o1)
-plot v(o2)
-plot v(o3)
-plot v(i8)
-plot v(i9)
-plot v(i10)
-plot v(i11)
-plot v(i12)
-plot v(i13)
-plot v(i14)
-plot v(i15)
+plot v(i0)+6 v(i1)+12 v(i2)+18 v(i3)+24 v(i4)+30 v(i7)+48 v(i6)+42 v(i5)+36 v(i8)+54 v(i9)+60 v(i10)+66 v(i11)+72 v(i12)+78 v(i13)+84 v(i14)+90 v(i15)+96
+plot v(o1)+12 v(o2)+18 v(o3)+24 v(o0)+6
 .endc
 .end

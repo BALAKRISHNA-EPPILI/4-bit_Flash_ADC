@@ -1,4 +1,4 @@
-* c:\balakrishna\fossee\esim\comp\comp.cir
+* c:\ebalakrishna\fossee\esim\bala_priority_encoder\comp\comp.cir
 
 .include lm_741.sub
 x1 net-_r2-pad1_ vref vin net-_x1-pad4_ net-_r2-pad2_ net-_r1-pad1_ net-_x1-pad7_ ? lm_741
@@ -23,7 +23,6 @@ run
 print allv > plot_data_v.txt
 print alli > plot_data_i.txt
 plot v(vout)
-plot v(vin)
-plot v(vref)
+plot v(vin) v(vref)
 .endc
 .end

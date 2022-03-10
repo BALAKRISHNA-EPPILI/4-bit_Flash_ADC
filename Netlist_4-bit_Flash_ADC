@@ -1,4 +1,4 @@
-* c:\balakrishna\fossee\esim\4_bit_adc\4_bit_adc.cir
+* c:\ebalakrishna\fossee\esim\4_bit_adc\4_bit_adc.cir
 
 .include lm_741.sub
 x1 net-r21-pad2 net-r1-pad2 vin net-x1-pad4 net-r21-pad1 net-u2-pad1 net-x1-pad7 ? lm_741

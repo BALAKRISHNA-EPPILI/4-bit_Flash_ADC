@@ -370,7 +370,7 @@ of analog as well as digital circuits.
 
 [2]. Refer to the netlist of the 4-bit Flash ADC here: <a href='bala_priority_encoder.cir.out'>Netlist</a></br>
 
-[3]. Refer to the netlist of the 4-bit Flash ADC here: <a href='comp.cir.out'>Netlist</a></br>
+[3]. Refer to the netlist of the 4-bit Flash ADC here: <a href='4_bit_ADC.cir.out'>Netlist</a></br>
 
 
 

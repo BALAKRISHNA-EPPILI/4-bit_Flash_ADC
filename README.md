@@ -368,9 +368,9 @@ of analog as well as digital circuits.
 # Netlist: 
 [1]. Refer to the netlist of the circuit here: <a href='Netlist_of_comparator'>Netlist_of_comparator</a>
 
-[2]. Refer to the netlist of the circuit here: <a href='Netlist _of _16x4 _Priority_encoder'>Netlist _of _8x3 _Priority_encoder</a>
+[2]. Refer to the netlist of the circuit here: <a href='Netlist _of _16x4 _Priority_encoder'>Netlist _of _16x4 _Priority_encoder</a>
 
-[3]. Refer to the netlist of the circuit here: <a href='Netlist_4-bit_Flash_ADC'>Netlist_3-bit_Flash_ADC</a>
+[3]. Refer to the netlist of the circuit here: <a href='Netlist_4-bit_Flash_ADC'>Netlist_4-bit_Flash_ADC</a>
 
 
 

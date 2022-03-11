@@ -366,11 +366,11 @@ of analog as well as digital circuits.
 </p>
 
 # Netlist: 
-[1]. Refer to the netlist of the 4-bit Flash ADC here: <a href='comp.cir.out'>Netlist</a></br>
+[1]. Refer to the netlist of the 4-bit Flash ADC here: <a href='comp.cir.out'>Netlist_of_comparator</a></br>
 
-[2]. Refer to the netlist of the 4-bit Flash ADC here: <a href='bala_priority_encoder.cir.out'>Netlist</a></br>
+[2]. Refer to the netlist of the 4-bit Flash ADC here: <a href='bala_priority_encoder.cir.out'>Netlist _of _16x4 _Priority_encoder</a></br>
 
-[3]. Refer to the netlist of the 4-bit Flash ADC here: <a href='4_bit_ADC.cir.out'>Netlist</a></br>
+[3]. Refer to the netlist of the 4-bit Flash ADC here: <a href='4_bit_ADC.cir.out'>Netlist_4-bit_Flash_ADC</a></br>
 
 
 

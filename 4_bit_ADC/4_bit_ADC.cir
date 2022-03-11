@@ -1,0 +1,77 @@
+* c:\ebalakrishna\fossee\esim\bala_priority_encoder\bala_priority_encoder.cir
+
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 03/10/22 20:58:41
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+X1  Net-_R21-Pad2_ Net-_R1-Pad2_ Vin Net-_X1-Pad4_ Net-_R21-Pad1_ Net-_U2-Pad1_ Net-_X1-Pad7_ ? lm_741		
+X2  Net-_R22-Pad2_ Net-_R2-Pad2_ Vin Net-_X1-Pad4_ Net-_R22-Pad1_ Net-_U2-Pad2_ Net-_X1-Pad7_ ? lm_741		
+X3  Net-_R23-Pad2_ Net-_R3-Pad2_ Vin Net-_X1-Pad4_ Net-_R23-Pad1_ Net-_U2-Pad3_ Net-_X1-Pad7_ ? lm_741		
+X4  Net-_R24-Pad2_ Net-_R4-Pad2_ Vin Net-_X1-Pad4_ Net-_R24-Pad1_ Net-_U2-Pad4_ Net-_X1-Pad7_ ? lm_741		
+X5  Net-_R25-Pad2_ Net-_R5-Pad2_ Vin Net-_X1-Pad4_ Net-_R25-Pad1_ Net-_U2-Pad5_ Net-_X1-Pad7_ ? lm_741		
+X6  Net-_R26-Pad2_ Net-_R6-Pad2_ Vin Net-_X1-Pad4_ Net-_R26-Pad1_ Net-_U2-Pad6_ Net-_X1-Pad7_ ? lm_741		
+X7  Net-_R27-Pad2_ Net-_R7-Pad2_ Vin Net-_X1-Pad4_ Net-_R27-Pad1_ Net-_U2-Pad7_ Net-_X1-Pad7_ ? lm_741		
+X9  Net-_R28-Pad2_ Net-_R8-Pad2_ Vin Net-_X1-Pad4_ Net-_R28-Pad1_ Net-_U2-Pad8_ Net-_X1-Pad7_ ? lm_741		
+X10  Net-_R29-Pad2_ Net-_R10-Pad1_ Vin Net-_X1-Pad4_ Net-_R29-Pad1_ Net-_U9-Pad1_ Net-_X1-Pad7_ ? lm_741		
+X11  Net-_R30-Pad2_ Net-_R10-Pad2_ Vin Net-_X1-Pad4_ Net-_R30-Pad1_ Net-_U9-Pad2_ Net-_X1-Pad7_ ? lm_741		
+X12  Net-_R31-Pad2_ Net-_R11-Pad2_ Vin ? Net-_R31-Pad1_ Net-_U9-Pad3_ Net-_X1-Pad7_ ? lm_741		
+X13  Net-_R32-Pad2_ Net-_R12-Pad2_ Vin Net-_X1-Pad4_ Net-_R32-Pad1_ Net-_U9-Pad4_ Net-_X1-Pad7_ ? lm_741		
+X14  Net-_R33-Pad2_ Net-_R13-Pad2_ Vin Net-_X1-Pad4_ ? Net-_U9-Pad5_ Net-_X1-Pad7_ ? lm_741		
+X15  ? Net-_R14-Pad2_ Vin Net-_X1-Pad4_ Net-_R34-Pad1_ Net-_U9-Pad6_ Net-_X1-Pad7_ ? lm_741		
+X16  Net-_R35-Pad2_ Net-_R15-Pad2_ Vin Net-_X1-Pad4_ Net-_R35-Pad1_ Net-_U9-Pad7_ Net-_X1-Pad7_ ? lm_741		
+R1  Vref Net-_R1-Pad2_ 1k		
+R2  Net-_R1-Pad2_ Net-_R2-Pad2_ 1k		
+R3  Net-_R2-Pad2_ Net-_R3-Pad2_ 1k		
+R4  Net-_R3-Pad2_ Net-_R4-Pad2_ 1k		
+R5  Net-_R4-Pad2_ Net-_R5-Pad2_ 1k		
+R6  Net-_R5-Pad2_ Net-_R6-Pad2_ 1k		
+R7  Net-_R6-Pad2_ Net-_R7-Pad2_ 1k		
+R8  Net-_R7-Pad2_ Net-_R8-Pad2_ 1k		
+R9  Net-_R8-Pad2_ Net-_R10-Pad1_ 1k		
+R10  Net-_R10-Pad1_ Net-_R10-Pad2_ 1k		
+R11  Net-_R10-Pad2_ Net-_R11-Pad2_ 1k		
+R12  Net-_R11-Pad2_ Net-_R12-Pad2_ 1k		
+R13  Net-_R12-Pad2_ Net-_R13-Pad2_ 1k		
+R14  Net-_R13-Pad2_ Net-_R14-Pad2_ 1k		
+R15  Net-_R14-Pad2_ Net-_R15-Pad2_ 1k		
+R16  Net-_R15-Pad2_ GND 1k		
+v1  Vref GND 12		
+v4  Vin GND sine		
+U1  Vin plot_v1		
+v2  Net-_X1-Pad7_ GND 20		
+v3  GND Net-_X1-Pad4_ 20		
+U2  Net-_U2-Pad1_ Net-_U2-Pad2_ Net-_U2-Pad3_ Net-_U2-Pad4_ Net-_U2-Pad5_ Net-_U2-Pad6_ Net-_U2-Pad7_ Net-_U2-Pad8_ Net-_U2-Pad9_ Net-_U2-Pad10_ Net-_U2-Pad11_ Net-_U2-Pad12_ Net-_U2-Pad13_ Net-_U2-Pad14_ Net-_U2-Pad15_ Net-_U2-Pad16_ adc_bridge_8		
+U5  Net-_U5-Pad1_ Net-_U5-Pad2_ Net-_U5-Pad3_ Net-_U5-Pad4_ Net-_R17-Pad2_ Net-_R18-Pad2_ Net-_R19-Pad2_ Net-_R20-Pad2_ dac_bridge_4		
+R17  Vout1 Net-_R17-Pad2_ 1k		
+R18  Vout2 Net-_R18-Pad2_ 1k		
+R19  Vout3 Net-_R19-Pad2_ 1k		
+R20  Vout4 Net-_R20-Pad2_ 1k		
+U3  Vout1 plot_v1		
+U4  Vout2 plot_v1		
+U6  Vout3 plot_v1		
+U7  Vout4 plot_v1		
+U8  Net-_U2-Pad9_ Net-_U2-Pad10_ Net-_U2-Pad11_ Net-_U2-Pad12_ Net-_U2-Pad13_ Net-_U2-Pad14_ Net-_U2-Pad15_ Net-_U2-Pad16_ Net-_U8-Pad9_ Net-_U8-Pad10_ Net-_U8-Pad11_ Net-_U8-Pad12_ Net-_U8-Pad13_ Net-_U8-Pad14_ Net-_U8-Pad15_ Net-_U8-Pad16_ Net-_U5-Pad1_ Net-_U5-Pad2_ Net-_U5-Pad3_ Net-_U5-Pad4_ balakrishna_priority_encoder		
+X8  Net-_R36-Pad2_ GND Vin Net-_X1-Pad4_ Net-_R36-Pad1_ Net-_U9-Pad8_ Net-_X1-Pad7_ ? lm_741		
+U10  Vref plot_v1		
+R21  Net-_R21-Pad1_ Net-_R21-Pad2_ 1k		
+R22  Net-_R22-Pad1_ Net-_R22-Pad2_ 1k		
+R23  Net-_R23-Pad1_ Net-_R23-Pad2_ 1k		
+R24  Net-_R24-Pad1_ Net-_R24-Pad2_ 1k		
+R25  Net-_R25-Pad1_ Net-_R25-Pad2_ 1k		
+R26  Net-_R26-Pad1_ Net-_R26-Pad2_ 1k		
+R27  Net-_R27-Pad1_ Net-_R27-Pad2_ 1k		
+R28  Net-_R28-Pad1_ Net-_R28-Pad2_ 1k		
+R29  Net-_R29-Pad1_ Net-_R29-Pad2_ 1k		
+R30  Net-_R30-Pad1_ Net-_R30-Pad2_ 1k		
+R31  Net-_R31-Pad1_ Net-_R31-Pad2_ 1k		
+R32  Net-_R32-Pad1_ Net-_R32-Pad2_ 1k		
+R33  ? Net-_R33-Pad2_ 1k		
+R34  Net-_R34-Pad1_ ? 1k		
+R35  Net-_R35-Pad1_ Net-_R35-Pad2_ 1k		
+R36  Net-_R36-Pad1_ Net-_R36-Pad2_ 1k		
+U9  Net-_U9-Pad1_ Net-_U9-Pad2_ Net-_U9-Pad3_ Net-_U9-Pad4_ Net-_U9-Pad5_ Net-_U9-Pad6_ Net-_U9-Pad7_ Net-_U9-Pad8_ Net-_U8-Pad9_ Net-_U8-Pad10_ Net-_U8-Pad11_ Net-_U8-Pad12_ Net-_U8-Pad13_ Net-_U8-Pad14_ Net-_U8-Pad15_ Net-_U8-Pad16_ adc_bridge_8		
+
+.end

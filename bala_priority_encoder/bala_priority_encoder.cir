@@ -1,0 +1,54 @@
+* c:\ebalakrishna\fossee\esim\bala_priority_encoder\bala_priority_encoder.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: 3/7/2022 1:35:33 AM
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+U13  I0 I1 I2 I3 I4 I5 I6 I7 Net-_U13-Pad9_ Net-_U13-Pad10_ Net-_U13-Pad11_ Net-_U13-Pad12_ Net-_U13-Pad13_ Net-_U13-Pad14_ Net-_U13-Pad15_ Net-_U13-Pad16_ adc_bridge_8		
+v1  I0 GND pulse		
+v2  I1 GND pulse		
+v3  I2 GND pulse		
+v4  I3 GND pulse		
+v5  I4 GND pulse		
+v6  I5 GND pulse		
+v7  I6 GND pulse		
+v8  I7 GND pulse		
+U1  I0 plot_v1		
+U2  I1 plot_v1		
+U3  I2 plot_v1		
+U4  I3 plot_v1		
+U5  I4 plot_v1		
+U8  I7 plot_v1		
+U7  I6 plot_v1		
+U6  I5 plot_v1		
+Uo4  O0 plot_v1		
+Uo1  O1 plot_v1		
+Uo2  O2 plot_v1		
+R3  Net-_R3-Pad1_ O2 1k		
+R2  Net-_R2-Pad1_ O1 1k		
+R1  Net-_R1-Pad1_ O0 1k		
+U22  Net-_U17-Pad17_ Net-_U17-Pad18_ Net-_U17-Pad19_ Net-_U17-Pad20_ Net-_R1-Pad1_ Net-_R2-Pad1_ Net-_R3-Pad1_ Net-_R4-Pad1_ dac_bridge_4		
+R4  Net-_R4-Pad1_ O3 1k		
+Uo3  O3 plot_v1		
+v9  I8 GND pulse		
+v10  I9 GND pulse		
+v11  I10 GND pulse		
+v12  I11 GND pulse		
+v13  I12 GND pulse		
+v14  I13 GND pulse		
+v15  I14 GND pulse		
+v16  I15 GND pulse		
+U23  I8 I9 I10 I11 I12 I13 I14 I15 Net-_U17-Pad9_ Net-_U17-Pad10_ Net-_U17-Pad11_ Net-_U17-Pad12_ Net-_U17-Pad13_ Net-_U17-Pad14_ Net-_U17-Pad15_ Net-_U17-Pad16_ adc_bridge_8		
+U9  I8 plot_v1		
+U10  I9 plot_v1		
+U11  I10 plot_v1		
+U12  I11 plot_v1		
+UI13  I12 plot_v1		
+U14  I13 plot_v1		
+U15  I14 plot_v1		
+U16  I15 plot_v1		
+U17  Net-_U13-Pad9_ Net-_U13-Pad10_ Net-_U13-Pad11_ Net-_U13-Pad12_ Net-_U13-Pad13_ Net-_U13-Pad14_ Net-_U13-Pad15_ Net-_U13-Pad16_ Net-_U17-Pad9_ Net-_U17-Pad10_ Net-_U17-Pad11_ Net-_U17-Pad12_ Net-_U17-Pad13_ Net-_U17-Pad14_ Net-_U17-Pad15_ Net-_U17-Pad16_ Net-_U17-Pad17_ Net-_U17-Pad18_ Net-_U17-Pad19_ Net-_U17-Pad20_ balakrishna_priority_encoder		
+
+.end
